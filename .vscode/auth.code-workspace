@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "name": "auth",
+      "path": "../"
+    }
+  ],
+  "settings": {
+    "eslint.workingDirectories": [
+      {
+        "mode": "auto"
+      }
+    ],
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "svg.preview.background": "transparent"
+  }
+}
