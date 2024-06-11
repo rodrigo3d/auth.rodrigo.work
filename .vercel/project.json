@@ -1,0 +1,15 @@
+{
+  "projectId": "prj_NYAZ9FVIckJnBoExyBcmYy7xqRJs",
+  "orgId": "team_nvNpyO7HtXmEGWLT6EciuGFY",
+  "settings": {
+    "createdAt": 1718312690935,
+    "framework": null,
+    "devCommand": null,
+    "installCommand": "pnpm install",
+    "buildCommand": "pnpm build",
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "20.x"
+  }
+}

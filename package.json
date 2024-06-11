@@ -1,6 +1,6 @@
 {
   "name": "auth.rodrigo.work",
-  "version": "0",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "build": "turbo build",
@@ -17,6 +17,6 @@
   },
   "packageManager": "pnpm@8.15.6",
   "engines": {
-    "node": ">=18"
+    "node": ">=16"
   }
 }
